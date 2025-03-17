@@ -21,8 +21,7 @@ Conditional Formatting – Highlighting key trends
 3️⃣ Use slicers and filters to explore insights dynamically
 
 ## 🖼 Preview of Dashboard
-📷 [Screenshot (2)](https://github.com/user-attachments/assets/3ee4185e-6be8-4960-b724-8ab97ac8ac1e)
-
+![Screenshot (2)](https://github.com/user-attachments/assets/858353c7-dff7-4007-a39c-bea12be60073)
 
 
 
