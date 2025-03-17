@@ -21,9 +21,9 @@ Conditional Formatting – Highlighting key trends
 3️⃣ Use slicers and filters to explore insights dynamically
 
 ## 🖼 Preview of Dashboard
-📷 (## Preview of Dashboard  
-![Coffee Sales Dashboard]
-![Screenshot (2)]([https://github.com/user-attachments/assets/b2d1ea41-fca6-4935-954c-a94612d5ef91)]
+📷 [Screenshot (2)](https://github.com/user-attachments/assets/3ee4185e-6be8-4960-b724-8ab97ac8ac1e)
+
+
 
 
 ## 🔗 Let's Connect!
